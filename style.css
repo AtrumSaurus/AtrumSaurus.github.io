@@ -3,6 +3,10 @@
   --white: #FFFFFF;
 }
 
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .header {
   background-color: var(--main-color);
   color: var(--white);
